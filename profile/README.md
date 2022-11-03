@@ -12,3 +12,7 @@ With a large focus on robots with arms and legs, our research includes novel act
 [YouTube](https://www.youtube.com/user/leggedrobotics) |
 [LinkedIn](https://www.linkedin.com/company/leggedrobotics/) |
 [facebook](https://www.facebook.com/leggedrobotics)
+
+## Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=graph_msf&show_owner=true)](https://github.com/leggedrobotics/graph_msf)

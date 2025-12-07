@@ -12,18 +12,3 @@ With a large focus on robots with arms and legs, our research includes novel act
 [YouTube](https://www.youtube.com/user/leggedrobotics) |
 [LinkedIn](https://www.linkedin.com/company/leggedrobotics/) |
 [facebook](https://www.facebook.com/leggedrobotics)
-
-## Additional Pins
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=ros_best_practices&show_owner=false)](https://github.com/leggedrobotics/ros_best_practices)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=free_gait&show_owner=false)](https://github.com/leggedrobotics/free_gait)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=traversability_estimation&show_owner=false)](https://github.com/leggedrobotics/traversability_estimation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=delora&show_owner=false)](https://github.com/leggedrobotics/delora)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=icp_localization&show_owner=false)](https://github.com/leggedrobotics/icp_localization)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=graph_msf&show_owner=false)](https://github.com/leggedrobotics/graph_msf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=perceptive_mpc&show_owner=false)](https://github.com/leggedrobotics/perceptive_mpc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=rsl_rl&show_owner=false)](https://github.com/leggedrobotics/rsl_rl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=art_planner&show_owner=false)](https://github.com/leggedrobotics/art_planner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=wild_visual_navigation&show_owner=false)](https://github.com/leggedrobotics/wild_visual_navigation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leggedrobotics&repo=L3E&show_owner=false)](https://github.com/leggedrobotics/L3E)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NVIDIA-Omniverse&repo=Orbit&show_owner=false)](https://github.com/NVIDIA-Omniverse/orbit)
